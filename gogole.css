@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #282727;
+    color: white;
+
+}
+.logo{
+    font-size: 46px;
+    transform: translate(925px,200px);
+}
+.me{
+    font-family: 'Roboto', sans-serif;
+}
+#info{
+    transform: translate(10px,-230px);
+}
+#stor{
+    transform:translate(120px,-251px)
+}
+#mail{
+    transform: translate(1800px,-270px);
+}
+#img{
+    transform: translate(1870px,-290px);
+}
+#icon{
+    transform: translate(1950px,-310px);
+}
+#nemo{
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    height: 40px;
+    background-color: #73ADFF;
+    border-radius: 5px;
+    transform: translate(2000px,-340px);
+}
+.bar{
+    width: 545px;
+    height: 45px;
+    background-color: #282727;
+    border: 1px solid white;
+    border-radius: 30px;
+    transform: translate(820px,10px);
+}
+.fa-solid.fa-magnifying-glass{
+    transform: translate(20px,10px);
+}
+
+.fa-solid.fa-keyboard{
+    transform: translate(420px,10px);
+}
+.fa-solid.fa-microphone{
+    transform: translate(440px,10px);
+}
+.fa-solid.fa-camera{
+    transform: translate(460px,10px);
+}
+#google{
+    width: 100px;
+    height: 30px;
+    background-color: #282727;
+    color: white;
+    border-radius: 5px;
+    transform: translate(960px,16px);
+}
+#feel{
+    width: 140px;
+    height: 30px;
+    background-color: #282727;
+    color: white;
+    border-radius: 5px;
+    transform: translate(970px,15px);
+}
