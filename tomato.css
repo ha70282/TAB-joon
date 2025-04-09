@@ -1,0 +1,48 @@
+.container{
+    background-color: tomato;
+    display :flex;
+    flex-direction: row;
+    border: 2px solid black;
+}
+.item{
+    background-color: tomato;
+    height: 200px;
+
+}
+.item1{
+    background-color: wheat;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    transform: translate(600px,0px) ;
+    border: 2px solid black;
+
+}
+.item2{
+    background-color: yellowgreen;
+    height: 5px;
+    width: 5px;
+    padding: 20px;
+    transform: translate(80px,0px) ;
+    border: 2px solid white;
+
+}
+.item3{
+    background-color: yellowgreen;
+    height: 5px;
+    width: 5px;
+    padding: 20px;
+    transform: translate(80px,60px) ;
+    border: 2px solid white;
+
+}
+.item4{
+    background-color: paleturquoise;
+    height: 5px;
+    width: 150px;
+    padding: 20px;
+    transform: translate(5px,30px) ;
+    border: 2px dashed white;
+    
+
+}
